@@ -70,7 +70,7 @@ const HeroSection = () => {
                 backgroundImage: `url(${"/12750.jpg"})`,
               }}
               className="
-            bg-no-repeat bg-top bg-cover w-[100%] h-[80vh] xs:h-[65vh] md:h-[80vh]   lg:h-[100vh] 2xl:h-[100vh]"
+            bg-no-repeat bg-center bg-cover w-[100%] h-[80vh] xs:h-[65vh] md:h-[80vh]   lg:h-[100vh] 2xl:h-[100vh]"
             ></div>
           </div>
           {/* slider two */}
