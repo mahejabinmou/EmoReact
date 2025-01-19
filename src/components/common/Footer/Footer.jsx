@@ -307,7 +307,7 @@ const Footer = () => {
               <div className="footerLogoparent">
                 <img
                   className="h-full w-full object-cover "
-                  src="/Images/emopractLogoUp.png"
+                  src="/Advance Care.png"
                   alt=""
                 />
               </div>
@@ -427,7 +427,7 @@ const Footer = () => {
               <div className="footerLogoparent">
                 <img
                   className="h-full w-full object-cover "
-                  src="/Images/emopractLogoUp.png"
+                  src="/Advance Care.png"
                   alt=""
                 />
               </div>
