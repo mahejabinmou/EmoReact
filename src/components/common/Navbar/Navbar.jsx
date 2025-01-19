@@ -41,7 +41,7 @@ const Navbar = () => {
             <Link to="/">
               <img
                 className="h-full w-full object-cover"
-                src="/Images/emopractLogoUp.png"
+                src="/Advance Care.png"
                 alt="brand logo"
               />
             </Link>
@@ -59,7 +59,7 @@ const Navbar = () => {
                   <Link to="/">
                     <img
                       className="h-full w-full object-cover"
-                      src="/Images/emopractLogoUp.png"
+                      src="/Advance Care.png"
                       alt="brand logo"
                     />
                   </Link>
@@ -110,7 +110,7 @@ const Navbar = () => {
               <Link to="/">
                 <img
                   className="h-full w-full object-cover"
-                  src="/Images/emopractLogoUp.png"
+                  src="/Advance Care.png"
                   alt="brand logo"
                 />
               </Link>
