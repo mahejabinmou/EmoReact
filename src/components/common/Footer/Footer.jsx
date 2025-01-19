@@ -323,7 +323,7 @@ const Footer = () => {
           "
         >
           <p className="footerMenuText ">
-            Copyright © advanceCare 2024. Designed and Developed Ethically By{" "}
+            Copyright © advanceCare 2024. Designed and Developed  By{" "}
             <span className="font-bold">
               {/* <Link
                 to="https://www.ethicalden.com/"
