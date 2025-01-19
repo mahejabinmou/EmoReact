@@ -41,7 +41,7 @@ const Events = () => {
 
   return (
     <div
-      className="mt-[200px] px-[32px] 2xl:px-[100px] 2xl:mt-[100px]
+      className="mt-[300px] px-[32px] 2xl:px-[100px] 2xl:mt-[100px]
     xl:px-[100px] xl:mt-[100px] lg:px-[60px] lg:mt-[80px] md:px-[60px] md:mt-[80px]"
     >
       <div>

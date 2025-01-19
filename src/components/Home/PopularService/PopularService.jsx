@@ -317,9 +317,9 @@ const PopularService = () => {
 
           <div className="">
             <div className="px-[36px] pt-[40px]">
-              <p className="getIntouchSmall">Get In Touch</p>
-              <h3 className="getTitle">free consultation</h3>
-              <p className="getParaText">
+              <p className="getIntouchSmall text-[#7EA254]">Get In Touch</p>
+              <h3 className="getTitle text-[#7EA254]">free consultation</h3>
+              <p className="getParaText text-[#000000]">
                 We understand that you may need more details on our services and
                 we care to clarify all of your doubts. Please reach out and help
                 us to schedule a call with you.
@@ -330,13 +330,13 @@ const PopularService = () => {
                 <img
                   className="w-full h-full object-cover rounded-[10px]"
                   // src="https://i.ibb.co/605DMmX/homeourservicesfreecon-66c260b27b8a4.webp"
-                  src="/consult.jpg"
+                  src="/164188.jpg"
                   alt=""
                 />
               </div>
               <div className="absolute top-[165px] w-full ">
-                <div className="bg-[#F2F2F2] mx-[36px]  rounded-[10px]">
-                  <h3 className="eventCardTitle text-[#7EA254]">
+                <div className="bg-[#7EA254] mx-[36px]  rounded-[10px]">
+                  <h3 className="eventCardTitle text-white">
                     request for a session!
                   </h3>
                   <form
@@ -412,7 +412,7 @@ const PopularService = () => {
                         Send Now
                       </button> */}
                       <input
-                        className={`contactSendBtn bg-[#7EA254]  text-white ${
+                        className={`contactSendBtn bg-white  text-[#000000] ${
                           isFormValid ? "" : "cursor-not-allowed opacity-50"
                         }`}
                         disabled={!isFormValid}
@@ -521,14 +521,14 @@ const PopularService = () => {
             </Slider>
           </div>
 
-          <div className=' hidden md:block bg-[url("https://res.cloudinary.com/dshn2s0tc/image/upload/v1719506684/advanceCare/cardBg_g8b4cu.png")] bg-no-repeat bg-cover bg-center xl:h-[650px] 2xl:h-[800px]  lg:h-[660px] md:h-[655px]'>
+          <div>
             <div className="sectionGap pt-[15px]   flex flex-row justify-center items-center xl:gap-x-[100px]   lg:gap-x-[50px] md:gap-x-[50px]">
               <div className="  w-full pt-[50px]">
                 <div
-                  className="bg-[#F2F2F2] pt-[50px] 2xl:max-w-[800px] xl:max-w-[500px]  
+                  className="bg-[#7EA254] pt-[50px] 2xl:max-w-[800px] xl:max-w-[500px]  
                  mx-auto  rounded-[10px]"
                 >
-                  <h3 className="eventCardTitle   text-[#7EA254]">
+                  <h3 className="eventCardTitle   text-white">
                     request for a session!
                   </h3>
                   {/* <form className="space-y-[20px] mt-[15px]">
@@ -637,7 +637,7 @@ const PopularService = () => {
                         Send Now
                       </button> */}
                       <input
-                        className={`contactSendBtn bg-[#7EA254]  text-white ${
+                        className={`contactSendBtn bg-white  text-[#000000] ${
                           isFormValid ? "" : "cursor-not-allowed opacity-50"
                         }`}
                         disabled={!isFormValid}
@@ -702,10 +702,12 @@ const PopularService = () => {
               </div>
 
               <div className="h-full">
-                <div className="">
-                  <p className="getIntouchService">Get In Touch</p>
-                  <h3 className="getTitle">free consultation</h3>
-                  <p className="getParaText">
+                <div className=" ">
+                  <p className="getIntouchService text-[#000000] font-medium">
+                    Get In Touch
+                  </p>
+                  <h3 className="getTitle text-[#7EA254]">free consultation</h3>
+                  <p className="getParaText text-[#000000]">
                     We understand that you may need more details on our services
                     and we care to clarify all of your doubts. Please reach out
                     and help us to schedule a call with you.
