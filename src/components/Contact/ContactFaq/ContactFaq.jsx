@@ -29,7 +29,7 @@ const ContactFaq = () => {
             >
               <h6 className="faqAccordianHeadText relative z-20">
                 <span className="z-20">
-                  How to be a part of the emopract family?
+                  How to be a part of the advanceCare family?
                 </span>
               </h6>
               <span className="transform transition-transform duration-300 ease-linear">
@@ -69,7 +69,8 @@ const ContactFaq = () => {
             >
               <h6 className="faqAccordianHeadText relative z-20">
                 <span className="z-20">
-                  Can I speak to an existing member to know more about emopract?
+                  Can I speak to an existing member to know more about
+                  advanceCare?
                 </span>
               </h6>
               <span className="transform transition-transform duration-300 ease-linear">
@@ -88,11 +89,12 @@ const ContactFaq = () => {
               <div>
                 <p className="faqAccordianTitleText">
                   You can freely talk to our existing members to know about
-                  their emopract experience. It will help you to understand how
-                  we assist seniors and cater to their holistic comfort in their
-                  homes. Please contact us and we will surely assist you. To
-                  know more about our vision, mission, beliefs and values, you
-                  can also watch the videos and channels linked to our website.
+                  their advanceCare experience. It will help you to understand
+                  how we assist seniors and cater to their holistic comfort in
+                  their homes. Please contact us and we will surely assist you.
+                  To know more about our vision, mission, beliefs and values,
+                  you can also watch the videos and channels linked to our
+                  website.
                 </p>
               </div>
             )}
@@ -107,8 +109,8 @@ const ContactFaq = () => {
             >
               <h6 className="faqAccordianHeadText relative z-20">
                 <span className="z-20">
-                  Who forms the emopract team, and how will they be assigned to
-                  members?
+                  Who forms the advanceCare team, and how will they be assigned
+                  to members?
                 </span>
               </h6>
               <span className="transform transition-transform duration-300 ease-linear">
@@ -126,7 +128,7 @@ const ContactFaq = () => {
             {openAccordion === 3 && (
               <div>
                 <p className="faqAccordianTitleText">
-                  Emopract’s Joys of Living Stars and Wellness Buddies are
+                  advanceCare’s Joys of Living Stars and Wellness Buddies are
                   young, educated and dedicated professionals. We recruit them
                   after a very thorough background check, including meticulous
                   document verification and even a psychometry test. The
@@ -147,7 +149,7 @@ const ContactFaq = () => {
             >
               <h6 className="faqAccordianHeadText relative z-20">
                 <span className="z-20">
-                  Emopract services are available in which cities?
+                  advanceCare services are available in which cities?
                 </span>
               </h6>
               <span className="transform transition-transform duration-300 ease-linear">
@@ -216,7 +218,7 @@ const ContactFaq = () => {
             >
               <h6 className="faqAccordianHeadText relative z-20">
                 <span className="z-20">
-                  What type of events will emopract organize and what are the
+                  What type of events will advanceCare organize and what are the
                   charges?
                 </span>
               </h6>
@@ -235,7 +237,7 @@ const ContactFaq = () => {
             {openAccordion === 6 && (
               <div>
                 <p className="faqAccordianTitleText">
-                  emopract offers access to a diverse range of events and
+                  advanceCare offers access to a diverse range of events and
                   activities, some paid and the others complimentary. To know
                   more, please visit our website, feel free to contact us, happy
                   to assist.
@@ -253,7 +255,7 @@ const ContactFaq = () => {
             >
               <h6 className="faqAccordianHeadText relative z-20">
                 <span className="z-20">
-                  What does emopract do in an emergency?
+                  What does advanceCare do in an emergency?
                 </span>
               </h6>
               <span className="transform transition-transform duration-300 ease-linear">

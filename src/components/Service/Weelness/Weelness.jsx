@@ -85,7 +85,7 @@ const Weelness = () => {
           but fretting us enough to take away our comfort and peace of mind.
           With the advancing years, these complaints increase exponentially, and
           are often the primary reasons for the lack of happiness of our elders.
-          The Wellness component of Emopract will engage with this aspect.
+          The Wellness component of advanceCare will engage with this aspect.
         </p>
       </div>
 

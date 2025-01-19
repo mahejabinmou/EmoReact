@@ -36,7 +36,7 @@ const CaringBlog = () => {
         <div className="h-[284px] md:h-[350px] lg:h-[550px] 2xl:h-[850px]">
           <img
             className="h-full w-full object-cover rounded-[10px]"
-            src="https://res.cloudinary.com/dshn2s0tc/image/upload/v1719409715/Emopract/joySlider_hp4biv.jpg"
+            src="https://res.cloudinary.com/dshn2s0tc/image/upload/v1719409715/advanceCare/joySlider_hp4biv.jpg"
             alt=""
           />
         </div>
@@ -101,7 +101,7 @@ const CaringBlog = () => {
                 <div className="h-[284px]">
                   <img
                     className="h-full w-full object-cover rounded-[10px]"
-                    src="https://res.cloudinary.com/dshn2s0tc/image/upload/v1719494528/Emopract/homeSliderImg_s1d8hx.jpg"
+                    src="https://res.cloudinary.com/dshn2s0tc/image/upload/v1719494528/advanceCare/homeSliderImg_s1d8hx.jpg"
                     alt=""
                   />
                 </div>
@@ -124,13 +124,13 @@ const CaringBlog = () => {
                     aspirations transcending across the backgrounds, ages, and
                     cultures globally. In order to attain a joyful life with
                     wellness, a person needs to train in all the three physical,
-                    mental, and emotional pleasures of life. Emopract’s main
+                    mental, and emotional pleasures of life. advanceCare’s main
                     zeal is to focus on the happiness quotient in serving elders
                     and making them feel free to enjoy their lives. They promise
                     to provide a one-stop solution to all through their wellness
                     regime. This will enable them to connect on a happy quotient
                     and make the elders feel more emotionally attached.
-                    Providing them with companions is the motto of Emopract
+                    Providing them with companions is the motto of advanceCare
                     which acts with both emotions and a practical mindset.
                     Physical wellness establishes a form of living a joyful life
                     and emphasises active engagement in various activities for
@@ -140,8 +140,8 @@ const CaringBlog = () => {
                     walking, attending the gym, and doing all household chores,
                     they can enhance energy levels and cheerfully boost mood by
                     venturing towards more interesting and creative outfits.
-                    Emopract focuses on arranging storytelling events and other
-                    creative ventures to free the elders from the mundane
+                    advanceCare focuses on arranging storytelling events and
+                    other creative ventures to free the elders from the mundane
                     atmosphere that they are in. This will enable them to enrich
                     their mindset and lead them to focus on open communication
                     in all aspects of work. This will make them feel both
@@ -169,11 +169,11 @@ const CaringBlog = () => {
                     feelings, journaling, and others. Proper relationship
                     building and maintaining with colleagues, clients, friends,
                     and families fosters a sense of support. This acts as a key
-                    to Emopract which intends to spread their supportive hands
-                    to the elderly. Providing mutual respect, empathy, and
+                    to advanceCare which intends to spread their supportive
+                    hands to the elderly. Providing mutual respect, empathy, and
                     communication would be significantly helpful in fostering
                     healthy relationships. By focusing on these aspects,
-                    Emopract will be able to put a smile on their faces and
+                    advanceCare will be able to put a smile on their faces and
                     enrich their lives to the fullest.
                   </p>
                   {/* <button className='blogBtn'>Read More</button> */}
@@ -188,7 +188,7 @@ const CaringBlog = () => {
                 <div className="h-[284px]">
                   <img
                     className="h-full w-full object-cover rounded-[10px]"
-                    src="https://res.cloudinary.com/dshn2s0tc/image/upload/v1719494528/Emopract/homeSliderImg_s1d8hx.jpg"
+                    src="https://res.cloudinary.com/dshn2s0tc/image/upload/v1719494528/advanceCare/homeSliderImg_s1d8hx.jpg"
                     alt=""
                   />
                 </div>
@@ -249,7 +249,7 @@ const CaringBlog = () => {
                 <div className="h-[284px]">
                   <img
                     className="h-full w-full object-cover rounded-[10px]"
-                    src="https://res.cloudinary.com/dshn2s0tc/image/upload/v1719494528/Emopract/homeSliderImg_s1d8hx.jpg"
+                    src="https://res.cloudinary.com/dshn2s0tc/image/upload/v1719494528/advanceCare/homeSliderImg_s1d8hx.jpg"
                     alt=""
                   />
                 </div>
@@ -324,7 +324,7 @@ const CaringBlog = () => {
                 <div className="h-[284px]">
                   <img
                     className="h-full w-full object-cover rounded-[10px]"
-                    src="https://res.cloudinary.com/dshn2s0tc/image/upload/v1719494528/Emopract/homeSliderImg_s1d8hx.jpg"
+                    src="https://res.cloudinary.com/dshn2s0tc/image/upload/v1719494528/advanceCare/homeSliderImg_s1d8hx.jpg"
                     alt=""
                   />
                 </div>
@@ -408,7 +408,7 @@ const CaringBlog = () => {
                   <div className="h-[284px]">
                     <img
                       className="h-full w-full object-cover rounded-[10px]"
-                      src="https://res.cloudinary.com/dshn2s0tc/image/upload/v1719494528/Emopract/homeSliderImg_s1d8hx.jpg"
+                      src="https://res.cloudinary.com/dshn2s0tc/image/upload/v1719494528/advanceCare/homeSliderImg_s1d8hx.jpg"
                       alt=""
                     />
                   </div>
@@ -432,7 +432,7 @@ const CaringBlog = () => {
                   <div className="h-[284px]">
                     <img
                       className="h-full w-full object-cover rounded-[10px]"
-                      src="https://res.cloudinary.com/dshn2s0tc/image/upload/v1719494528/Emopract/homeSliderImg_s1d8hx.jpg"
+                      src="https://res.cloudinary.com/dshn2s0tc/image/upload/v1719494528/advanceCare/homeSliderImg_s1d8hx.jpg"
                       alt=""
                     />
                   </div>
@@ -456,7 +456,7 @@ const CaringBlog = () => {
                   <div className="h-[284px]">
                     <img
                       className="h-full w-full object-cover rounded-[10px]"
-                      src="https://res.cloudinary.com/dshn2s0tc/image/upload/v1719494528/Emopract/homeSliderImg_s1d8hx.jpg"
+                      src="https://res.cloudinary.com/dshn2s0tc/image/upload/v1719494528/advanceCare/homeSliderImg_s1d8hx.jpg"
                       alt=""
                     />
                   </div>
@@ -480,7 +480,7 @@ const CaringBlog = () => {
                   <div className="h-[284px]">
                     <img
                       className="h-full w-full object-cover rounded-[10px]"
-                      src="https://res.cloudinary.com/dshn2s0tc/image/upload/v1719494528/Emopract/homeSliderImg_s1d8hx.jpg"
+                      src="https://res.cloudinary.com/dshn2s0tc/image/upload/v1719494528/advanceCare/homeSliderImg_s1d8hx.jpg"
                       alt=""
                     />
                   </div>
@@ -512,7 +512,7 @@ const CaringBlog = () => {
                 <div className="h-[284px]">
                   <img
                     className="h-full w-full object-cover rounded-[10px]"
-                    src="https://res.cloudinary.com/dshn2s0tc/image/upload/v1719494528/Emopract/homeSliderImg_s1d8hx.jpg"
+                    src="https://res.cloudinary.com/dshn2s0tc/image/upload/v1719494528/advanceCare/homeSliderImg_s1d8hx.jpg"
                     alt=""
                   />
                 </div>
@@ -535,7 +535,7 @@ const CaringBlog = () => {
                 <div className="h-[284px]">
                   <img
                     className="h-full w-full object-cover rounded-[10px]"
-                    src="https://res.cloudinary.com/dshn2s0tc/image/upload/v1719494528/Emopract/homeSliderImg_s1d8hx.jpg"
+                    src="https://res.cloudinary.com/dshn2s0tc/image/upload/v1719494528/advanceCare/homeSliderImg_s1d8hx.jpg"
                     alt=""
                   />
                 </div>
@@ -558,7 +558,7 @@ const CaringBlog = () => {
                 <div className="h-[284px]">
                   <img
                     className="h-full w-full object-cover rounded-[10px]"
-                    src="https://res.cloudinary.com/dshn2s0tc/image/upload/v1719494528/Emopract/homeSliderImg_s1d8hx.jpg"
+                    src="https://res.cloudinary.com/dshn2s0tc/image/upload/v1719494528/advanceCare/homeSliderImg_s1d8hx.jpg"
                     alt=""
                   />
                 </div>
@@ -581,7 +581,7 @@ const CaringBlog = () => {
                 <div className="h-[284px]">
                   <img
                     className="h-full w-full object-cover rounded-[10px]"
-                    src="https://res.cloudinary.com/dshn2s0tc/image/upload/v1719494528/Emopract/homeSliderImg_s1d8hx.jpg"
+                    src="https://res.cloudinary.com/dshn2s0tc/image/upload/v1719494528/advanceCare/homeSliderImg_s1d8hx.jpg"
                     alt=""
                   />
                 </div>
@@ -604,7 +604,7 @@ const CaringBlog = () => {
                 <div className="h-[284px]">
                   <img
                     className="h-full w-full object-cover rounded-[10px]"
-                    src="https://res.cloudinary.com/dshn2s0tc/image/upload/v1719494528/Emopract/homeSliderImg_s1d8hx.jpg"
+                    src="https://res.cloudinary.com/dshn2s0tc/image/upload/v1719494528/advanceCare/homeSliderImg_s1d8hx.jpg"
                     alt=""
                   />
                 </div>
@@ -627,7 +627,7 @@ const CaringBlog = () => {
                 <div className="h-[284px]">
                   <img
                     className="h-full w-full object-cover rounded-[10px]"
-                    src="https://res.cloudinary.com/dshn2s0tc/image/upload/v1719494528/Emopract/homeSliderImg_s1d8hx.jpg"
+                    src="https://res.cloudinary.com/dshn2s0tc/image/upload/v1719494528/advanceCare/homeSliderImg_s1d8hx.jpg"
                     alt=""
                   />
                 </div>
@@ -651,7 +651,7 @@ const CaringBlog = () => {
         <div className="w-full h-[410px] md:pb-[50px] md:h-[450px] lg:h-[600px] 2xl:h-[764px]">
           <img
             className="h-full w-full object-cover rounded-[10px]"
-            src="https://res.cloudinary.com/dshn2s0tc/image/upload/v1719386257/Emopract/video_zrgrnw.jpg"
+            src="https://res.cloudinary.com/dshn2s0tc/image/upload/v1719386257/advanceCare/video_zrgrnw.jpg"
             alt=""
           />
         </div>

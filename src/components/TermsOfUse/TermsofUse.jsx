@@ -19,11 +19,11 @@ const TermsofUse = () => {
           style={{ fontFamily: '"Times New Roman", serif', fontSize: "10pt" }}
         >
           Please read these Terms and Conditions (“Terms”), a legal agreement
-          between <strong>Emopract Pvt. Ltd</strong>., a Private Limited Company
-          registered under the provisions of Companies Act, 2013, of India,
-          having its registered office at Bhakta Tower, KB-22, KB Block, 1
-          <sup>st</sup> Floor, Sector 3, Salt lake, Kolkata – 700106, India
-          (hereinafter referred to as “<strong>emopract</strong>”, “Company”,
+          between <strong>advanceCare Pvt. Ltd</strong>., a Private Limited
+          Company registered under the provisions of Companies Act, 2013, of
+          India, having its registered office at Bhakta Tower, KB-22, KB Block,
+          1<sup>st</sup> Floor, Sector 3, Salt lake, Kolkata – 700106, India
+          (hereinafter referred to as “<strong>advanceCare</strong>”, “Company”,
           “We”, “Us”, “Our” including its affiliates and agents) of the one part
           and “<strong>Member</strong>” (defined below) and “
           <strong>Users</strong>” (defined below) (together referred to as “You”
@@ -50,11 +50,11 @@ const TermsofUse = () => {
         >
           These Terms shall govern use of and access to the website{" "}
           <a
-            href="http://emopract.com/"
+            href="http://advanceCare.com/"
             target="_blank"
             rel="noopener noreferrer"
           >
-            emopract.com
+            advanceCare.com
           </a>{" "}
           accessible through desktops, mobile phones, smart phones and tablets
           which includes the computer software, associated media, collaterals,
@@ -71,32 +71,33 @@ const TermsofUse = () => {
           Please carefully go through these Terms and the privacy policy
           available at{" "}
           <a
-            href="http://emopract.com/"
+            href="http://advanceCare.com/"
             target="_blank"
             rel="noopener noreferrer"
           >
-            emopract.com
+            advanceCare.com
           </a>{" "}
           before you decide to access or use the Website and the Services
           mentioned thereunder. These Terms and the Privacy Policy together
-          constitute a legal agreement (“Agreement”) between You and emopract in
-          connection with Your access and use of the Website. By clicking “Sign
-          up”, “Log in”, “Register Now” or “Create an Account for a Member” or
-          similar tabs at the time of registration, or subscribing, or by
-          entering into an agreement with emopract or through the continued use
-          and accessing the Website, You accept the Terms and consent your
-          approval to the provisions of the Terms as laid down hereinbelow. The
-          Company requires You to abide by the terms and conditions stated below
-          as a condition for using the Website, the Services offered, purchase
-          of Services, performance of Services, payments made, content, tools
-          and functionality provided, transactions implemented on or through
-          this Website. In addition, when using particular Services or materials
-          on the Website, You shall also be subject to any posted rules
-          applicable to the use of such Services or materials that may contain
-          terms and conditions in addition to those in these Terms. All such
-          additional guidelines or rules are hereby incorporated by reference
-          into these Terms. If you do not agree and do not wish to be bound by
-          the Terms, you have the right not to access or use the Website.
+          constitute a legal agreement (“Agreement”) between You and advanceCare
+          in connection with Your access and use of the Website. By clicking
+          “Sign up”, “Log in”, “Register Now” or “Create an Account for a
+          Member” or similar tabs at the time of registration, or subscribing,
+          or by entering into an agreement with advanceCare or through the
+          continued use and accessing the Website, You accept the Terms and
+          consent your approval to the provisions of the Terms as laid down
+          hereinbelow. The Company requires You to abide by the terms and
+          conditions stated below as a condition for using the Website, the
+          Services offered, purchase of Services, performance of Services,
+          payments made, content, tools and functionality provided, transactions
+          implemented on or through this Website. In addition, when using
+          particular Services or materials on the Website, You shall also be
+          subject to any posted rules applicable to the use of such Services or
+          materials that may contain terms and conditions in addition to those
+          in these Terms. All such additional guidelines or rules are hereby
+          incorporated by reference into these Terms. If you do not agree and do
+          not wish to be bound by the Terms, you have the right not to access or
+          use the Website.
         </span>
       </p>
       <p style={{ marginLeft: "0cm", textAlign: "justify" }}>&nbsp;</p>
@@ -211,8 +212,10 @@ const TermsofUse = () => {
                 fontSize: "10pt",
               }}
             >
-              <strong>“emopract Joys of living Star and Wellness Buddy”</strong>{" "}
-              shall be the respective team member from emopract who will be
+              <strong>
+                “advanceCare Joys of living Star and Wellness Buddy”
+              </strong>{" "}
+              shall be the respective team member from advanceCare who will be
               offering Services as per the Membership Plans to the concerned
               Member(s).
             </span>
@@ -227,10 +230,10 @@ const TermsofUse = () => {
                 fontSize: "10pt",
               }}
             >
-              <strong>“Emopract Team Member(s)”</strong> shall mean the team
-              member other than emopract Joys of living Star and Wellness Buddy
-              from emopract who may be offering Services availed by the Member
-              or providing any additional Services.
+              <strong>“advanceCare Team Member(s)”</strong> shall mean the team
+              member other than advanceCare Joys of living Star and Wellness
+              Buddy from advanceCare who may be offering Services availed by the
+              Member or providing any additional Services.
             </span>
           </p>
         </li>
@@ -337,8 +340,10 @@ const TermsofUse = () => {
                 fontSize: "10pt",
               }}
             >
-              <strong>“emopract Joys of living Star and Wellness Buddy”</strong>{" "}
-              shall be the respective team member from emopract who will be
+              <strong>
+                “advanceCare Joys of living Star and Wellness Buddy”
+              </strong>{" "}
+              shall be the respective team member from advanceCare who will be
               offering Services as per the Membership Plans to the concerned
               Member(s).
             </span>
@@ -353,10 +358,10 @@ const TermsofUse = () => {
                 fontSize: "10pt",
               }}
             >
-              <strong>“Emopract Team Member(s)”</strong> shall mean the team
-              member other than emopract Joys of living Star and Wellness Buddy
-              from emopract who may be offering Services availed by the Member
-              or providing any additional Services.
+              <strong>“advanceCare Team Member(s)”</strong> shall mean the team
+              member other than advanceCare Joys of living Star and Wellness
+              Buddy from advanceCare who may be offering Services availed by the
+              Member or providing any additional Services.
             </span>
           </p>
         </li>
@@ -449,8 +454,8 @@ const TermsofUse = () => {
             >
               <strong>
                 “Membership Agreement” shall be the additional agreement that
-                will be signed between the Member and emopract and which shall
-                contain all Services and plans that will be offered to the
+                will be signed between the Member and advanceCare and which
+                shall contain all Services and plans that will be offered to the
                 Member.
               </strong>
             </span>
@@ -557,7 +562,7 @@ const TermsofUse = () => {
             >
               <strong>
                 REGISTRATION AS A MEMBER AND SERVICES OFFERED TO MEMBERS BY
-                EMOPRACT
+                advanceCare
               </strong>
             </span>
           </p>
@@ -589,7 +594,7 @@ const TermsofUse = () => {
               }}
             >
               <strong>
-                emopract offers various membership plans to its Members which
+                advanceCare offers various membership plans to its Members which
                 may include various Services being offered on a monthly,
                 quarterly or annual basis. These plans may be offered to the
                 Member alone or to their spouse depending upon the membership
@@ -731,16 +736,16 @@ const TermsofUse = () => {
                 limited to Your and/or the Member’s First name, Last name,
                 e-mail address, phone number, residential address and a user
                 name and password you will use to access the Website - “Member
-                Information”) of the Member when filing the emopract onboarding
-                registration form available on the Website and to keep the
-                Member Information accurate and up-to-date. Failure to do so
-                shall constitute a breach of the Terms, which may result in
-                immediate termination of the Account.&nbsp;
+                Information”) of the Member when filing the advanceCare
+                onboarding registration form available on the Website and to
+                keep the Member Information accurate and up-to-date. Failure to
+                do so shall constitute a breach of the Terms, which may result
+                in immediate termination of the Account.&nbsp;
               </strong>
               <span lang="EN-IN" dir="ltr">
                 <strong>
                   The Member Information uploaded by You may be verified by
-                  emopract.
+                  advanceCare.
                 </strong>
               </span>
             </span>
@@ -763,8 +768,8 @@ const TermsofUse = () => {
                 <strong>
                   have to specify the Membership Plan that You have opted for
                   and if You wish to avail any other additional Services that
-                  emopract is offering then You can select those Services in the
-                  registration form.
+                  advanceCare is offering then You can select those Services in
+                  the registration form.
                 </strong>
               </span>
             </span>
@@ -893,7 +898,7 @@ const TermsofUse = () => {
             >
               <strong>
                 The Member acknowledges that their telephonic conversations and
-                chat interactions with emopract’s Joys of living Star and
+                chat interactions with advanceCare’s Joys of living Star and
                 Wellness Buddy and other support staff may be recorded and
                 utilized for training and quality assurance purposes.
               </strong>
@@ -935,16 +940,16 @@ const TermsofUse = () => {
                 <strong>
                   The Member acknowledges that granting access to their property
                   at the registered address is necessary for rendering the
-                  Services. Our emopract Joys of living Star and Wellness Buddy
-                  or Emopract’s Team Member(s) require access to the property at
-                  the registered address when called upon by the Member for
-                  availing the Services. During emergency health issues, if
-                  access to the property at the registered address is blocked or
-                  inaccessible, we reserve the right to forcefully enter and
-                  provide Services without being held responsible for any delay
-                  or inability to render Services. Any damage caused due to
-                  forceful entry during emergency situations shall be borne by
-                  the Member.&nbsp;
+                  Services. Our advanceCare Joys of living Star and Wellness
+                  Buddy or advanceCare’s Team Member(s) require access to the
+                  property at the registered address when called upon by the
+                  Member for availing the Services. During emergency health
+                  issues, if access to the property at the registered address is
+                  blocked or inaccessible, we reserve the right to forcefully
+                  enter and provide Services without being held responsible for
+                  any delay or inability to render Services. Any damage caused
+                  due to forceful entry during emergency situations shall be
+                  borne by the Member.&nbsp;
                 </strong>
               </span>
             </span>
@@ -973,8 +978,8 @@ const TermsofUse = () => {
             >
               <span lang="EN-IN" dir="ltr">
                 <strong>
-                  Ouremopract Joys of living Star and Wellness Buddy or
-                  Emopract’s Team Member(s)
+                  OuradvanceCare Joys of living Star and Wellness Buddy or
+                  advanceCare’s Team Member(s)
                 </strong>
               </span>
             </span>
@@ -1008,8 +1013,8 @@ const TermsofUse = () => {
             >
               <span lang="EN-IN" dir="ltr">
                 <strong>
-                  emopract Joys of living Star and Wellness Buddy or Emopract’s
-                  Team Member(s)
+                  advanceCare Joys of living Star and Wellness Buddy or
+                  advanceCare’s Team Member(s)
                 </strong>
               </span>
             </span>
@@ -1023,9 +1028,10 @@ const TermsofUse = () => {
             >
               <strong>
                 . Our 24/7 Emergency Co-ordination Services, are subject to
-                intimation to emopract of the emergency by the Members or their
-                NoK. We will not be responsible for any inability to render
-                Services in the event the intimation is not received by Us.
+                intimation to advanceCare of the emergency by the Members or
+                their NoK. We will not be responsible for any inability to
+                render Services in the event the intimation is not received by
+                Us.
               </strong>
             </span>
           </p>
@@ -1175,7 +1181,7 @@ const TermsofUse = () => {
                 Chakraborty, Grievance Officer at{" "}
               </strong>
             </span>
-            <a href="mailto:megha.hr@emopract.com">
+            <a href="mailto:megha.hr@advanceCare.com">
               <span
                 style={{
                   color: "rgb(51, 51, 51)",
@@ -1184,7 +1190,7 @@ const TermsofUse = () => {
                 }}
               >
                 <span lang="EN-IN" dir="ltr">
-                  <strong>megha.hr@emopract.com</strong>
+                  <strong>megha.hr@advanceCare.com</strong>
                 </span>
               </span>
             </a>
@@ -1372,8 +1378,8 @@ const TermsofUse = () => {
                   The Members or their family members, friends or any person who
                   will visit the house of the Member must be aware not to
                   misbehave, assault, threaten, mishandle or detain any
-                  emopract’s Joys of living Star and Wellness Buddy or
-                  Emopract’s Team Members against their wishes. If such a
+                  advanceCare’s Joys of living Star and Wellness Buddy or
+                  advanceCare’s Team Members against their wishes. If such a
                   situation arises, the Member will be responsible for any
                   contingencies/harm caused directly or indirectly due to the
                   acts or omission of the Member or their family members,
@@ -1399,8 +1405,8 @@ const TermsofUse = () => {
                   If the Member(s) or their family members, friends, or any
                   person who will visit or stay at the Member’s house have any
                   communicable diseases, they must inform the Company and their
-                  emopract’s Joys of living Star and Wellness Buddy or
-                  Emopract’s Team Members about the same.
+                  advanceCare’s Joys of living Star and Wellness Buddy or
+                  advanceCare’s Team Members about the same.
                 </strong>
               </span>
             </span>
@@ -1483,21 +1489,21 @@ const TermsofUse = () => {
             >
               <strong>
                 Website and Website Content: The Website is owned and operated
-                by emopract. emopract owns all rights, title, and interest,
-                including all Intellectual Property Rights such as copyright,
-                trademarks, trade secrets, patent, and other proprietary rights
-                in and to the Website, the present or future modifications
-                thereof, and standard enhancements thereto. You agree not to
-                reproduce, modify, sell, distribute, mirror, frame, republish,
-                download, transmit, reverse engineer, or create derivative works
-                of the Website and/or emopract Content, in whole or in part, by
-                any means. You must not remove or modify any copyright or
-                trademark notice, or other notice of ownership. Modification of
-                the material or the content on the Website, use of such material
-                on any other Website or networked computer environment, or use
-                of the materials for any purpose other than those stipulated in
-                these terms is a violation of our Intellectual Property Rights
-                and is prohibited.
+                by advanceCare. advanceCare owns all rights, title, and
+                interest, including all Intellectual Property Rights such as
+                copyright, trademarks, trade secrets, patent, and other
+                proprietary rights in and to the Website, the present or future
+                modifications thereof, and standard enhancements thereto. You
+                agree not to reproduce, modify, sell, distribute, mirror, frame,
+                republish, download, transmit, reverse engineer, or create
+                derivative works of the Website and/or advanceCare Content, in
+                whole or in part, by any means. You must not remove or modify
+                any copyright or trademark notice, or other notice of ownership.
+                Modification of the material or the content on the Website, use
+                of such material on any other Website or networked computer
+                environment, or use of the materials for any purpose other than
+                those stipulated in these terms is a violation of our
+                Intellectual Property Rights and is prohibited.
               </strong>
             </span>
           </p>
@@ -1512,7 +1518,7 @@ const TermsofUse = () => {
               }}
             >
               <strong>
-                Limited License to use the Website and emopract Content: We
+                Limited License to use the Website and advanceCare Content: We
                 grant the Member a non-exclusive, personal, non-transferable,
                 revocable, and limited right to have access to and make use of
                 the Website and Services offered therein only for the duration
@@ -1520,14 +1526,14 @@ const TermsofUse = () => {
                 the terms contained therein. You are not permitted to reproduce,
                 duplicate, copy, sell, or otherwise exploit the Website or any
                 image, service description, price, page layout, page design,
-                trade dress, trademark, logo, or other emopract Content for any
-                commercial purpose, except as expressly provided. You shall not
-                copy, make derivative works, transmit, post, link, deep link,
-                redistribute, sell, decompile, modify, reverse engineer, or
-                translate the Website. You shall not use any automated system,
-                such as a page-scrape, robot, spider, or other device, program,
-                algorithm, or methodology, nor any manual process, to access,
-                acquire, copy, or monitor any part of the Website or its
+                trade dress, trademark, logo, or other advanceCare Content for
+                any commercial purpose, except as expressly provided. You shall
+                not copy, make derivative works, transmit, post, link, deep
+                link, redistribute, sell, decompile, modify, reverse engineer,
+                or translate the Website. You shall not use any automated
+                system, such as a page-scrape, robot, spider, or other device,
+                program, algorithm, or methodology, nor any manual process, to
+                access, acquire, copy, or monitor any part of the Website or its
                 content. Additionally, you shall not reproduce or circumvent the
                 navigational structure or presentation of the Website or its
                 content to obtain or attempt to obtain any materials, documents,
@@ -1542,9 +1548,9 @@ const TermsofUse = () => {
                 material from the Website, nor shall you use the Website for
                 advertising or marketing purposes. These Terms do not and shall
                 not transfer any ownership or proprietary interest in the
-                Website or emopract Content to You, except as may be otherwise
-                expressly provided herein or as may be agreed to by and between
-                the Parties.
+                Website or advanceCare Content to You, except as may be
+                otherwise expressly provided herein or as may be agreed to by
+                and between the Parties.
               </strong>
             </span>
           </p>
@@ -1581,11 +1587,11 @@ const TermsofUse = () => {
             >
               <strong>
                 Guidelines for Member Content: Members who wish to upload any
-                Member Content must adhere to the following guidelines. emopract
-                reserves the right to remove or reject any Member Content that
-                may conflict with these guidelines. Gross or repeated violations
-                may result in restrictions on, or termination of, the Member's
-                Account.
+                Member Content must adhere to the following guidelines.
+                advanceCare reserves the right to remove or reject any Member
+                Content that may conflict with these guidelines. Gross or
+                repeated violations may result in restrictions on, or
+                termination of, the Member's Account.
               </strong>
             </span>
           </p>
@@ -1700,12 +1706,12 @@ const TermsofUse = () => {
                   years and that you are legally competent to contract in
                   accordance with applicable laws both within and outside India,
                   and must have the authority to enter into this Agreement.
-                  emopract reserves the right to terminate your account and/or
-                  deny you access to the Services if it is discovered that You
-                  are not a senior citizen or are not competent to contract, or
-                  if any information provided by you is inaccurate. It is your
-                  sole responsibility to ensure that you meet the required
-                  qualifications.
+                  advanceCare reserves the right to terminate your account
+                  and/or deny you access to the Services if it is discovered
+                  that You are not a senior citizen or are not competent to
+                  contract, or if any information provided by you is inaccurate.
+                  It is your sole responsibility to ensure that you meet the
+                  required qualifications.
                 </strong>
               </p>
             </li>
@@ -1722,12 +1728,12 @@ const TermsofUse = () => {
                   If a Next of Kin (NoK) is representing you, they must be of
                   legal age and competent to contract in accordance with
                   applicable laws both within and outside India, and must have
-                  the authority to enter into this Agreement. emopract reserves
-                  the right to terminate your account and/or deny you access to
-                  the Services if it is discovered that your NoK is underage,
-                  not competent to contract, or if any information provided by
-                  you is inaccurate. It is your sole responsibility to ensure
-                  that you meet the required qualifications;
+                  the authority to enter into this Agreement. advanceCare
+                  reserves the right to terminate your account and/or deny you
+                  access to the Services if it is discovered that your NoK is
+                  underage, not competent to contract, or if any information
+                  provided by you is inaccurate. It is your sole responsibility
+                  to ensure that you meet the required qualifications;
                 </strong>
               </p>
             </li>
@@ -1817,8 +1823,8 @@ const TermsofUse = () => {
                   and that You will take sole responsibility for any activities
                   or actions that happen through Your Account or on the Website,
                   whether or not You have authorized such activities or actions.
-                  You will immediately notify emopract of any unauthorized use
-                  of Your Account or any authorized use of Your
+                  You will immediately notify advanceCare of any unauthorized
+                  use of Your Account or any authorized use of Your
                   personal/financial details;
                 </strong>
               </p>
@@ -1850,7 +1856,7 @@ const TermsofUse = () => {
               >
                 <strong>
                   You shall not violate or attempt to violate the security of
-                  emopract’s Website or any websites linked to emopract’s
+                  advanceCare’s Website or any websites linked to advanceCare’s
                   Website, nor gain unauthorized access to any information
                   regarded as private by other users or persons. This includes,
                   but is not limited to, accessing data and information not
@@ -1878,7 +1884,7 @@ const TermsofUse = () => {
                   issue a warning to discontinue any activity leading to the
                   violations and, if you continue such activity, the Company has
                   the unilateral right to suspend or deactivate your access to
-                  emopract’s Website, the Service, and/or any other related
+                  advanceCare’s Website, the Service, and/or any other related
                   facility. In addition to the right to indemnity available to
                   the Company, the Company shall have the right to any legal
                   remedy to recover losses suffered by the Company and harm
@@ -1986,12 +1992,13 @@ const TermsofUse = () => {
               >
                 <strong>
                   The Company shall to the best of their ability conduct an
-                  initial background check of the emopract Joys of living Star
-                  and Wellness Buddy and Emopract Team Members before they are
-                  sent to provide Services to the Member(s). However, if Members
-                  wish to conduct additional verification or background checks
-                  on the emopract Joys of living Star and Wellness Buddy and
-                  Emopract Team Members, they are permitted to do so.
+                  initial background check of the advanceCare Joys of living
+                  Star and Wellness Buddy and advanceCare Team Members before
+                  they are sent to provide Services to the Member(s). However,
+                  if Members wish to conduct additional verification or
+                  background checks on the advanceCare Joys of living Star and
+                  Wellness Buddy and advanceCare Team Members, they are
+                  permitted to do so.
                 </strong>
               </p>
             </li>
@@ -2293,7 +2300,7 @@ const TermsofUse = () => {
                       fontSize: "10.0pt",
                     }}
                   >
-                    <strong>megha.hr@emopract.com</strong>
+                    <strong>megha.hr@advanceCare.com</strong>
                   </span>
                 </p>
               </td>
@@ -2341,7 +2348,7 @@ const TermsofUse = () => {
                     }}
                   >
                     <strong>
-                      emopract Pvt. Ltd., Bhakta Tower, KB-22, KB Block, 1
+                      advanceCare Pvt. Ltd., Bhakta Tower, KB-22, KB Block, 1
                       <sup>st</sup> Floor, Sector 3, Salt lake, Kolkata –
                       700106, India
                     </strong>

@@ -25,7 +25,7 @@ const AboutUs = () => {
 
             <p className="ourServicePara pt-[10px]">
               {" "}
-              Emopract is conceptualized by Gourab Nath Ghosh and Dhrubajyoti
+              advanceCare is conceptualized by Gourab Nath Ghosh and Dhrubajyoti
               Bose. Collectively, they have 50+ years of professional experience
               in creating consumer-focused impact across multiple states of
               India and nurturing thriving communities around the fusion of

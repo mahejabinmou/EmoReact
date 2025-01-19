@@ -339,13 +339,13 @@ const MembershipCard = () => {
 
           <div className="mt-6 p-4 mx-2 text-center   font-Ubuntu bg-white  rounded-[15px]">
             <p className="font-bold text-[#7EA254] text-[15px] lg:text-[18px]">
-              Join us @ emopract exclusive LIVE EVENT - 5 (free)
+              Join us @ advanceCare exclusive LIVE EVENT - 5 (free)
             </p>
             <p className="mt-2 text-black font-bold text-[12px] lg:text-[16px]">
               Access to online engagement
             </p>
             <p className="mt-2  font-bold text-[#7EA254] text-[15px] lg:text-[18px]">
-              Participate in the "emopract" EVENTS - Live (charges apply)
+              Participate in the "advanceCare" EVENTS - Live (charges apply)
             </p>
           </div>
           <div className="mt-6 p-6 font-Ubuntu  text-white">
@@ -657,13 +657,13 @@ const MembershipCard = () => {
             </div>
             <div className="mt-6 mx-[8px] text-center p-8  text-white bg-[#7EA254] rounded-[10px]">
               <p className="lg:text-[18px]">
-                Join us @ emopract exclusive LIVE EVENT - 1 (free)
+                Join us @ advanceCare exclusive LIVE EVENT - 1 (free)
               </p>
               <p className="mt-2 lg:py-2 text-black  lg:text-[14px]">
                 Access to online engagement
               </p>
               <p className=" font-semibold text-white lg:text-[18px]">
-                Participate in the "emopract" EVENTS - Live (charges apply)
+                Participate in the "advanceCare" EVENTS - Live (charges apply)
               </p>
             </div>
             <div className="mt-6 p-6 ">
@@ -953,10 +953,10 @@ const MembershipCard = () => {
               </p>
             </div>
             <div className="mt-6 text-center p-2 mx-[8px] bg-white text-[#7EA254] rounded-[10px]">
-              <p>Join us @ emopract exclusive LIVE EVENT - charges apply</p>
+              <p>Join us @ advanceCare exclusive LIVE EVENT - charges apply</p>
               <p className="text-black">Access to online engagement</p>
               <p className="mt-4 font-semibold ">
-                Participate in the "emopract" EVENTS - Live (charges apply)
+                Participate in the "advanceCare" EVENTS - Live (charges apply)
               </p>
             </div>
             <div className="pt-4 pb-8">

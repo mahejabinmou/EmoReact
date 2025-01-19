@@ -6,7 +6,7 @@ const Chatbot = () => {
   const steps = [
     {
       id: "0",
-      message: "Welcome to emopract family!",
+      message: "Welcome to advanceCare family!",
       trigger: "1",
     },
     {

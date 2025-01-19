@@ -18,7 +18,7 @@ const AboutHero = () => {
   //   setOpen(false);
   // };
 
-  // https://res.cloudinary.com/dshn2s0tc/image/upload/v1719490307/Emopract/coomonHero_jzrn0s.png
+  // https://res.cloudinary.com/dshn2s0tc/image/upload/v1719490307/advanceCare/coomonHero_jzrn0s.png
   return (
     <div>
       <div className="">

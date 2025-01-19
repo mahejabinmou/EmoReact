@@ -39,7 +39,7 @@ const joyItems = [
     title: "Entertainment",
     subtitle: "Sometimes we just want someone to sit with us ",
     extendedSubtitle:
-      "and make us feel cocooned in companionship. ‘We’ll do it later, when we retire”, that’s the common consolation to offer oneself. But when finally one has the much-awaited leisure, too many years have passed. Even going out to a multiplex for a film or the theatre for a play seems daunting. But what if there was someone always at hand to accompany a senior citizen to an event or an occasion? Suddenly the social gathering at a friend’s place or a garden sale at the nursery doesn’t seem an impossible venture. Team Emopract ensures cherished smiles.",
+      "and make us feel cocooned in companionship. ‘We’ll do it later, when we retire”, that’s the common consolation to offer oneself. But when finally one has the much-awaited leisure, too many years have passed. Even going out to a multiplex for a film or the theatre for a play seems daunting. But what if there was someone always at hand to accompany a senior citizen to an event or an occasion? Suddenly the social gathering at a friend’s place or a garden sale at the nursery doesn’t seem an impossible venture. Team advanceCare ensures cherished smiles.",
   },
   {
     link: "/joy-card-four",
@@ -172,7 +172,7 @@ const PopularService = () => {
         </div>
 
         {/* mobile slider  */}
-        <div className='md:hidden block bg-[url("https://res.cloudinary.com/dshn2s0tc/image/upload/v1719506684/Emopract/cardBg_g8b4cu.png")] bg-no-repeat bg-cover bg-center h-[1200px] '>
+        <div className='md:hidden block bg-[url("https://res.cloudinary.com/dshn2s0tc/image/upload/v1719506684/advanceCare/cardBg_g8b4cu.png")] bg-no-repeat bg-cover bg-center h-[1200px] '>
           <div className="w-[366px]  mx-auto">
             <div className="slider-container ">
               <Slider {...settings}>
@@ -521,7 +521,7 @@ const PopularService = () => {
             </Slider>
           </div>
 
-          <div className=' hidden md:block bg-[url("https://res.cloudinary.com/dshn2s0tc/image/upload/v1719506684/Emopract/cardBg_g8b4cu.png")] bg-no-repeat bg-cover bg-center xl:h-[650px] 2xl:h-[800px]  lg:h-[660px] md:h-[655px]'>
+          <div className=' hidden md:block bg-[url("https://res.cloudinary.com/dshn2s0tc/image/upload/v1719506684/advanceCare/cardBg_g8b4cu.png")] bg-no-repeat bg-cover bg-center xl:h-[650px] 2xl:h-[800px]  lg:h-[660px] md:h-[655px]'>
             <div className="sectionGap pt-[15px]   flex flex-row justify-center items-center xl:gap-x-[100px]   lg:gap-x-[50px] md:gap-x-[50px]">
               <div className="  w-full pt-[50px]">
                 <div

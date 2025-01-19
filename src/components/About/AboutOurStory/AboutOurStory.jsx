@@ -32,19 +32,19 @@ const AboutOurStory = () => {
             className="ourServicePara pt-[15px] 2xl:pb-[25px] 2xl:pt-[30px]
          xl:pt-[30px] xl:pb-[25px]  lg:pb-[25px]  lg:pt-[30px] md:pb-[25px] md:pt-[25px]"
           >
-            Emopract family is built specifically to serve elders. It comprises
-            a group of gender diverse talented young professionals. These
-            handpicked and meticulously trained individuals manage finance,
-            human assets, social media, marketing innovations, blogging,
-            technology integration, creative event management…a host of factors
-            to ensure wellness and joys of living for senior citizens
+            advanceCare family is built specifically to serve elders. It
+            comprises a group of gender diverse talented young professionals.
+            These handpicked and meticulously trained individuals manage
+            finance, human assets, social media, marketing innovations,
+            blogging, technology integration, creative event management…a host
+            of factors to ensure wellness and joys of living for senior citizens
           </p>
 
           <h3
             className="ourStoryTitle pt-[60px] 2xl:pt-[200px] xl:pt-[100px]
           lg:pt-[100px] md:pt-[80px]"
           >
-            emopract is for you ..{" "}
+            advanceCare is for you ..{" "}
           </h3>
         </div>
       </div>

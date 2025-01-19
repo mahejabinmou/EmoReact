@@ -88,21 +88,21 @@
 //             <div className="footerLogoparent">
 //               <img
 //                 className="h-full w-full object-cover "
-//                 src="https://res.cloudinary.com/dshn2s0tc/image/upload/v1719302631/Emopract/mHeroLogo_techun.png"
+//                 src="https://res.cloudinary.com/dshn2s0tc/image/upload/v1719302631/advanceCare/mHeroLogo_techun.png"
 //                 alt=""
 //               />
 //             </div>
 
 //             <div className=" ">
 //               <div className="flex  pt-[20px] pb-[15px] gap-x-[10px]">
-//                 <a href="https://www.facebook.com/p/Emopract-61561294300993/">
+//                 <a href="https://www.facebook.com/p/advanceCare-61561294300993/">
 //                   <FaFacebook size={28} className="footerSocailIcon" />
 //                 </a>
-//                 <a href="https://www.instagram.com/emopract_official/">
+//                 <a href="https://www.instagram.com/advanceCare_official/">
 //                   <FaInstagram size={28} className="footerSocailIcon" />
 //                 </a>
 
-//                 <a href="https://www.linkedin.com/company/emopract/?viewAsMember=true">
+//                 <a href="https://www.linkedin.com/company/advanceCare/?viewAsMember=true">
 //                   <FaLinkedinIn size={28} className="footerSocailIcon" />
 //                 </a>
 //                 <a href="https://www.youtube.com/channel/UCxCh3hV_bvIUscScLCGI65Q">
@@ -148,12 +148,12 @@
 //           </div>
 
 //           <div>
-//             <h2 className="footerMenuTextTitle">emopract pvt ltd</h2>
+//             <h2 className="footerMenuTextTitle">advanceCare pvt ltd</h2>
 //             <p className="footerMenuText">Bhakta Tower</p>
 //             <p className="footerMenuText">KB-22, KB Block</p>
 //             <p className="footerMenuText">Sector- 3, Salt Lake</p>
 //             <p className="footerMenuText">WB, Kolkata- 700106</p>
-//             <p className="footerMenuText">info@emopract.com</p>
+//             <p className="footerMenuText">info@advanceCare.com</p>
 //           </div>
 
 //           <div>
@@ -196,7 +196,7 @@
 //           "
 //           >
 //             <p className="footerMenuText ">
-//               Copyright © Emopract 2024. Designed and Developed Ethically By{" "}
+//               Copyright © advanceCare 2024. Designed and Developed Ethically By{" "}
 //               <span>
 //                 <Link
 //                   to="https://www.ethicalden.com/"
@@ -314,14 +314,14 @@ const Footer = () => {
 
               <div className=" ">
                 <div className="flex  pt-[20px] pb-[15px] gap-x-[10px]">
-                  <a href="https://www.facebook.com/p/Emopract-61561294300993/">
+                  <a href="https://www.facebook.com/p/advanceCare-61561294300993/">
                     <FaFacebook size={25} className="footerSocailIcon" />
                   </a>
-                  <a href="https://www.instagram.com/emopract_official/">
+                  <a href="https://www.instagram.com/advanceCare_official/">
                     <FaInstagram size={25} className="footerSocailIcon" />
                   </a>
 
-                  <a href="https://www.linkedin.com/company/emopract/?viewAsMember=true">
+                  <a href="https://www.linkedin.com/company/advanceCare/?viewAsMember=true">
                     <FaLinkedinIn size={25} className="footerSocailIcon" />
                   </a>
                   <a href="https://www.youtube.com/channel/UCxCh3hV_bvIUscScLCGI65Q">
@@ -351,7 +351,7 @@ const Footer = () => {
           </div>
         </div>
 
-        {/* emopract pvt ltd */}
+        {/* advanceCare pvt ltd */}
         <div
           className="mt-[30px] px-[30px] md:px-[50px]  lg:px-[60px] xl:px-[100px] pb-[25px] 
       flex justify-between 
@@ -360,12 +360,12 @@ const Footer = () => {
         >
           <div>
             <div>
-              <h2 className="footerMenuTextTitle">emopract pvt ltd</h2>
+              <h2 className="footerMenuTextTitle">advanceCare pvt ltd</h2>
               <p className="footerMenuText">Bhakta Tower</p>
               <p className="footerMenuText">KB-22, KB Block</p>
               <p className="footerMenuText">Sector- 3, Salt Lake</p>
               <p className="footerMenuText">WB, Kolkata- 700106</p>
-              <p className="footerMenuText">info@emopract.com</p>
+              <p className="footerMenuText">info@advanceCare.com</p>
             </div>
 
             <div
@@ -434,14 +434,14 @@ const Footer = () => {
 
               <div className=" ">
                 <div className="flex  pt-[20px] pb-[15px] gap-x-[10px]">
-                  <a href="https://www.facebook.com/p/Emopract-61561294300993/">
+                  <a href="https://www.facebook.com/p/advanceCare-61561294300993/">
                     <FaFacebook size={28} className="footerSocailIcon" />
                   </a>
-                  <a href="https://www.instagram.com/emopract_official/">
+                  <a href="https://www.instagram.com/advanceCare_official/">
                     <FaInstagram size={28} className="footerSocailIcon" />
                   </a>
 
-                  <a href="https://www.linkedin.com/company/emopract/?viewAsMember=true">
+                  <a href="https://www.linkedin.com/company/advanceCare/?viewAsMember=true">
                     <FaLinkedinIn size={28} className="footerSocailIcon" />
                   </a>
                   <a href="https://www.youtube.com/channel/UCxCh3hV_bvIUscScLCGI65Q">
@@ -488,12 +488,12 @@ const Footer = () => {
 
             <div>
               <div>
-                <h2 className="footerMenuTextTitle">emopract pvt ltd</h2>
-                <p className="footerMenuText">Bhakta Tower</p>
-                <p className="footerMenuText">KB-22, KB Block</p>
-                <p className="footerMenuText">Sector- 3, Salt Lake</p>
-                <p className="footerMenuText">WB, Kolkata- 700106</p>
-                <p className="footerMenuText">info@emopract.com</p>
+                <h2 className="footerMenuTextTitle">advanceCare pvt ltd</h2>
+                <p className="footerMenuText">Khan Tower</p>
+                <p className="footerMenuText">Plot-22, C Block</p>
+                <p className="footerMenuText">Road- 3, Mirpur 14</p>
+                <p className="footerMenuText">Mirpur, Dhaka- 1206</p>
+                <p className="footerMenuText">info@advacnecare.com</p>
               </div>
 
               <div
@@ -539,7 +539,7 @@ const Footer = () => {
           "
         >
           <p className="footerMenuText ">
-            Copyright © Emopract 2024. Designed and Developed Ethically By{" "}
+            Copyright © advanceCare 2024. Designed and Developed Ethically By{" "}
             <span>
               <Link
                 to="https://www.ethicalden.com/"

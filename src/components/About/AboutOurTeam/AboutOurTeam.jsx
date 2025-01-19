@@ -14,7 +14,7 @@ const AboutOurTeam = () => {
           <p className="ourServicePara">
             They are young individuals who are friendly, courteous and
             compassionate. They are handpicked and trained to get the job done
-            efficiently and fast, upholding Emopract’s high levels of
+            efficiently and fast, upholding advanceCare’s high levels of
             professionalism.They subscribe to the company's vision of quality
             care delivered with complete responsibility.
           </p>

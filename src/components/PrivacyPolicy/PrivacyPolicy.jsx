@@ -36,7 +36,7 @@ const PrivacyPolicy = () => {
                 lineHeight: "130%",
               }}
             >
-              <strong>“Emopract”</strong> shall mean Emopract Pvt. Ltd, a
+              <strong>“advanceCare”</strong> shall mean advanceCare Pvt. Ltd, a
               Private Limited Company incorporated under the laws of India
               having its registered office at Bhakta Tower, KB-22, KB Block, 1st
               Floor, Sector 3, Salt lake, Kolkata – 700106, India (including its
@@ -65,13 +65,13 @@ const PrivacyPolicy = () => {
               <strong>“Information”</strong> shall mean and include any personal
               information and sensitive personal data or information (as defined
               under the SPI Rules) that may be collected, received, possessed,
-              stored, dealt with, and handled by Emopract in connection with its
-              Services, including but not limited to name, address, telephone
-              number, date of birth, e-mail address, financial information such
-              as bank account or credit card or debit card or other payment
-              instrument details, information regarding Member’s health or
-              medical records and any other personal information that may be
-              required by Emopract for providing Services.
+              stored, dealt with, and handled by advanceCare in connection with
+              its Services, including but not limited to name, address,
+              telephone number, date of birth, e-mail address, financial
+              information such as bank account or credit card or debit card or
+              other payment instrument details, information regarding Member’s
+              health or medical records and any other personal information that
+              may be required by advanceCare for providing Services.
             </span>
           </span>
         </p>
@@ -94,8 +94,9 @@ const PrivacyPolicy = () => {
               }}
             >
               <strong>“Member”</strong> shall mean a person who has registered
-              with Emopract to avail the Services offered by Emopract or who
-              visits or uses the Website or avails the Services of Emopract.
+              with advanceCare to avail the Services offered by advanceCare or
+              who visits or uses the Website or avails the Services of
+              advanceCare.
             </span>
           </span>
         </p>
@@ -141,7 +142,7 @@ const PrivacyPolicy = () => {
               }}
             >
               <strong>“Services”</strong> shall mean and include the elder care
-              services offered by Emopract including but not limited to the
+              services offered by advanceCare including but not limited to the
               services as mentioned on the Website.
             </span>
           </span>
@@ -188,7 +189,7 @@ const PrivacyPolicy = () => {
               }}
             >
               “<strong>User(s)</strong>” shall mean and include the Member and
-              any other persons availing the Services of Emopract or visiting
+              any other persons availing the Services of advanceCare or visiting
               the Website.
             </span>
           </span>
@@ -261,7 +262,7 @@ const PrivacyPolicy = () => {
                 >
                   “<strong>Membership Agreement</strong>” shall be the
                   additional agreement that will be signed between the Member
-                  and emopract and which shall contain all Services and plans
+                  and advanceCare and which shall contain all Services and plans
                   that will be offered to the Member.
                 </span>
               </span>
@@ -1104,7 +1105,7 @@ const PrivacyPolicy = () => {
               </strong>
             </span>
           </span>
-          <a href="mailto:info@emopract.com" target="_blank">
+          <a href="mailto:info@advanceCare.com" target="_blank">
             <span
               style={{
                 fontFamily: '"Times New Roman","serif"',
@@ -1116,7 +1117,7 @@ const PrivacyPolicy = () => {
                   lineHeight: "130%",
                 }}
               >
-                <strong>info@emopract.com</strong>
+                <strong>info@advanceCare.com</strong>
               </span>
             </span>
           </a>
@@ -2555,18 +2556,18 @@ const PrivacyPolicy = () => {
                     lineHeight: "130%",
                   }}
                 >
-                  to provide Services such as home visits byemopract Joys of
-                  living Star and Wellness Buddy and/or Emopract Team Member(s),
-                  in case of emergency by doctors and nurses, and other
-                  emergency responder team, the Company may use and disclose
-                  necessary personal information, such as live location, blood
-                  group, age, name, sex, medical history, and emergency contact,
-                  to protect the Member's wellbeing. This information may be
-                  common with: (i) emopract Joys of living Star and Wellness
-                  Buddy and/or Emopract Team Member(s) who assist the Member
-                  until the ambulance arrives, (ii) hospital staff where the
-                  Member is taken, and (iii) other emergency service providers
-                  etc.
+                  to provide Services such as home visits byadvanceCare Joys of
+                  living Star and Wellness Buddy and/or advanceCare Team
+                  Member(s), in case of emergency by doctors and nurses, and
+                  other emergency responder team, the Company may use and
+                  disclose necessary personal information, such as live
+                  location, blood group, age, name, sex, medical history, and
+                  emergency contact, to protect the Member's wellbeing. This
+                  information may be common with: (i) advanceCare Joys of living
+                  Star and Wellness Buddy and/or advanceCare Team Member(s) who
+                  assist the Member until the ambulance arrives, (ii) hospital
+                  staff where the Member is taken, and (iii) other emergency
+                  service providers etc.
                 </span>
               </span>
             </p>
@@ -4194,7 +4195,7 @@ const PrivacyPolicy = () => {
                   Information at any time by contacting Us at 
                 </span>
               </span>
-              <a href="mailto:megha.hr@emopract.com">
+              <a href="mailto:megha.hr@advanceCare.com">
                 <span
                   style={{
                     fontFamily: '"Times New Roman","serif"',
@@ -4208,7 +4209,7 @@ const PrivacyPolicy = () => {
                       lineHeight: "130%",
                     }}
                   >
-                    megha.hr@emopract.com
+                    megha.hr@advanceCare.com
                   </span>
                 </span>
               </a>
@@ -5612,7 +5613,7 @@ const PrivacyPolicy = () => {
                           lineHeight: "130%",
                         }}
                       >
-                        megha.hr@emopract.com
+                        megha.hr@advanceCare.com
                       </span>
                     </span>
                   </p>
@@ -5686,7 +5687,7 @@ const PrivacyPolicy = () => {
                           lineHeight: "130%",
                         }}
                       >
-                        emopractPvt. Ltd.,
+                        advanceCarePvt. Ltd.,
                       </span>
                     </span>
                   </p>
@@ -6057,7 +6058,7 @@ const PrivacyPolicy = () => {
                 lineHeight: "130%",
               }}
             >
-              COPYRIGHT © EMOPRACT, 2024.  ALL RIGHTS RESERVED
+              COPYRIGHT © advanceCare, 2024.  ALL RIGHTS RESERVED
             </span>
           </span>
         </p>

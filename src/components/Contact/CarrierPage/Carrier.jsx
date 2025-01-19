@@ -46,7 +46,7 @@ const CarrierPage = () => {
           <h3 className="conatactEventTitle">Apply here!</h3>
         </div>
         <div className="bg-[#7EA254] mt-[35px] py-[35px] md:py-[50px] lg:py-[70px] xl:py-[80px] 2xl:py-[120px] rounded-[10px]">
-          <h3 className="eventCardTitle">career@emopract!</h3>
+          <h3 className="eventCardTitle">career@advanceCare!</h3>
           <form
             ref={form}
             onSubmit={sendEmail}
@@ -160,14 +160,14 @@ const CarrierPage = () => {
               </select>
             </div>
             <div className="inputParent gap-[5px]">
-              <label className="formTitle" htmlFor="why_emopract">
-                Why Emopract? Please specify
+              <label className="formTitle" htmlFor="why_advanceCare">
+                Why advanceCare? Please specify
               </label>
               <input
                 className="contactInpufeild h-[17px]"
                 type="text"
-                name="from_why_emopract"
-                id="why_emopract"
+                name="from_why_advanceCare"
+                id="why_advanceCare"
               />
             </div>
             <div className="inputParent gap-[5px]">

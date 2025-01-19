@@ -34,7 +34,7 @@ const joyItems = [
     title: "Entertainment",
     subtitle: "Sometimes we just want someone to sit with us ",
     extendedSubtitle:
-      "and make us feel cocooned in companionship. ‘We’ll do it later, when we retire”, that’s the common consolation to offer oneself. But when finally one has the much-awaited leisure, too many years have passed. Even going out to a multiplex for a film or the theatre for a play seems daunting. But what if there was someone always at hand to accompany a senior citizen to an event or an occasion? Suddenly the social gathering at a friend’s place or a garden sale at the nursery doesn’t seem an impossible venture. Team Emopract ensures cherished smiles.",
+      "and make us feel cocooned in companionship. ‘We’ll do it later, when we retire”, that’s the common consolation to offer oneself. But when finally one has the much-awaited leisure, too many years have passed. Even going out to a multiplex for a film or the theatre for a play seems daunting. But what if there was someone always at hand to accompany a senior citizen to an event or an occasion? Suddenly the social gathering at a friend’s place or a garden sale at the nursery doesn’t seem an impossible venture. Team advanceCare ensures cherished smiles.",
   },
   {
     link: "/joy-card-four",
@@ -128,8 +128,8 @@ const JoysLiving = () => {
           it with; they have the means, but no motivation to utilize them fully.
           We can call this component the Joys of Life – the so called
           trivialities and intangibles that add up to constitute a rich and full
-          life. What might these be !! Here at Emopract we plan to address this
-          and create smiles all around for the elders -- " Joys of Living "
+          life. What might these be !! Here at advanceCare we plan to address
+          this and create smiles all around for the elders -- " Joys of Living "
         </p>
       </div>
 

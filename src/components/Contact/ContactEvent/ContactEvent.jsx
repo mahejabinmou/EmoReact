@@ -81,12 +81,12 @@ const ContactEvent = () => {
           </div>
           <div className="contactTitleSubttitleParent pt-[25px]">
             <div className="contactIconParent">
-              <a href="mailto:info@emopract.com">
+              <a href="mailto:info@advanceCare.com">
                 <MdEmail className="contactEventIcon text-white" />
               </a>
             </div>
             <div>
-              <h4 className="contactCTAtitle">info@emopract.com</h4>
+              <h4 className="contactCTAtitle">info@advanceCare.com</h4>
             </div>
           </div>
         </div>
