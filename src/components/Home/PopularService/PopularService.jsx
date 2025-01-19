@@ -703,7 +703,7 @@ const PopularService = () => {
 
               <div className="h-full">
                 <div className=" ">
-                  <p className="getIntouchService text-[#000000] font-medium">
+                  <p className="getIntouchService text-[#000000] ">
                     Get In Touch
                   </p>
                   <h3 className="getTitle text-[#7EA254]">free consultation</h3>

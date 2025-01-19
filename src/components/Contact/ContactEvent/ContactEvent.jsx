@@ -76,7 +76,7 @@ const ContactEvent = () => {
               </a>
             </div>
             <div>
-              <h4 className="contactCTAtitle">+91 9230977337</h4>
+              <h4 className="contactCTAtitle">+101010101010</h4>
             </div>
           </div>
           <div className="contactTitleSubttitleParent pt-[25px]">
